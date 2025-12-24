@@ -41,7 +41,7 @@ export interface PortfolioData {
         id: string;
         name: string;
         category: string;
-        level: number;
+        icon: string;
     }>;
     services: Array<{
         id: string;
@@ -52,9 +52,30 @@ export interface PortfolioData {
     projects: Array<{
         id: string;
         title: string;
+        category: string;
         description: string;
+        fullDescription?: string;
         image: string;
         technologies: string[];
+        aiFeatures?: string[];
+        coreFeatures?: string[];
+        techStack?: {
+            frontend?: string[];
+            backend?: string[];
+            database?: string[];
+            security?: string[];
+            aiml?: string[];
+            tools?: string[];
+            services?: string[];
+            embeddings?: string[];
+            monitoring?: string[];
+            architecture?: string[];
+            analytics?: string[];
+            [key: string]: string[] | undefined;
+        };
+        achievements?: string[];
+        userManagement?: string[];
+        futureEnhancements?: string[];
         github: string;
         demo: string;
         featured: boolean;
