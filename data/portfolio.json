@@ -1,0 +1,815 @@
+{
+    "personal": {
+        "name": "Ishan Devinda",
+        "title": "Software Engineer",
+        "email": "devindaishan98@gmail.com",
+        "phone": "+94705830147",
+        "location": "Hakman, Matara, Sri Lanka",
+        "bio": "I excel at crafting elegant digital experiences and I am proficient in various programming languages and technologies.",
+        "socialLinks": {
+            "github": "https://github.com/Ishan-Devinda",
+            "linkedin": "https://www.linkedin.com/in/ishan-liyanaarachchige-775986380/",
+            "twitter": "https://twitter.com/yourusername",
+            "email": "mailto:devindaishan98@gmail.com"
+        },
+        "stats": {
+            "experience": "1 ",
+            "projects": "10+",
+            "technologies": "25+",
+            "commits": "1000+"
+        }
+    },
+    "rotatingTitles": [
+        "Computer Engineer",
+        "Fullstack Developer",
+        "AI/ML Developer",
+        "Software Engineer",
+        "Web Developer",
+        "Mobile App Developer"
+    ],
+    "about": {
+        "description": "I'm a passionate software engineer with expertise in building scalable software applications and innovative solutions. With a strong foundation in computer science and hands-on experience in modern technologies, I transform ideas into reality. These skills have been honed through a combination of coursework, personal projects, and collaborative endeavors, making me a versatile and capable developer",
+        "highlights": [
+            "1 year of professional experience",
+            "Specialized in full-stack development(Backend, Frontend)",
+            "Passionate about AI/ML and emerging technologies",
+            "Strong problem-solving and analytical skills",
+            "Mobile app development",
+            "Docker, CI/CD"
+        ]
+    },
+    "experience": [
+        {
+            "id": "1",
+            "company": "Aventure IT Solution (Pvt) Ltd",
+            "position": "Software Engineering Intern",
+            "duration": "July 2024 - February 2025",
+            "description": "Completed an 8-month internship focused on full-stack development, working on both backend and frontend technologies. Gained hands-on experience in software project management using Jira, technical documentation, and agile development practices. Contributed to multiple projects involving modern web technologies and collaborative team environments.",
+            "technologies": [
+                "Backend Development",
+                "Frontend Development",
+                "Jira",
+                "Project Management",
+                "Technical Documentation",
+                "Agile Methodology"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "id": "1",
+            "name": "React.js",
+            "category": "Software Engineering",
+            "icon": "FaReact"
+        },
+        {
+            "id": "2",
+            "name": "Next.js",
+            "category": "Software Engineering",
+            "icon": "SiNextdotjs"
+        },
+        {
+            "id": "3",
+            "name": "TypeScript",
+            "category": "Software Engineering",
+            "icon": "SiTypescript"
+        },
+        {
+            "id": "4",
+            "name": "JavaScript",
+            "category": "Software Engineering",
+            "icon": "FaJs"
+        },
+        {
+            "id": "5",
+            "name": "Redux.js",
+            "category": "Software Engineering",
+            "icon": "SiRedux"
+        },
+        {
+            "id": "6",
+            "name": "React Query",
+            "category": "Software Engineering",
+            "icon": "SiReactquery"
+        },
+        {
+            "id": "7",
+            "name": "Node.js",
+            "category": "Software Engineering",
+            "icon": "FaNodeJs"
+        },
+        {
+            "id": "8",
+            "name": "Express.js",
+            "category": "Software Engineering",
+            "icon": "SiExpress"
+        },
+        {
+            "id": "9",
+            "name": "Spring Boot",
+            "category": "Software Engineering",
+            "icon": "SiSpringboot"
+        },
+        {
+            "id": "10",
+            "name": "FastAPI",
+            "category": "Software Engineering",
+            "icon": "SiFastapi"
+        },
+        {
+            "id": "11",
+            "name": "Python",
+            "category": "Software Engineering",
+            "icon": "FaPython"
+        },
+        {
+            "id": "12",
+            "name": "Java",
+            "category": "Software Engineering",
+            "icon": "FaJava"
+        },
+        {
+            "id": "13",
+            "name": "C++",
+            "category": "Software Engineering",
+            "icon": "SiCplusplus"
+        },
+        {
+            "id": "14",
+            "name": "C#",
+            "category": "Software Engineering",
+            "icon": "FaCode"
+        },
+        {
+            "id": "18",
+            "name": "WPF Development",
+            "category": "Software Engineering",
+            "icon": "FaWindows"
+        },
+        {
+            "id": "19",
+            "name": "MongoDB",
+            "category": "Software Engineering",
+            "icon": "SiMongodb"
+        },
+        {
+            "id": "20",
+            "name": "PostgreSQL",
+            "category": "Software Engineering",
+            "icon": "SiPostgresql"
+        },
+        {
+            "id": "21",
+            "name": "MySQL",
+            "category": "Software Engineering",
+            "icon": "SiMysql"
+        },
+        {
+            "id": "22",
+            "name": "SQL",
+            "category": "Software Engineering",
+            "icon": "FaDatabase"
+        },
+        {
+            "id": "23",
+            "name": "IPFS",
+            "category": "Software Engineering",
+            "icon": "SiIpfs"
+        },
+        {
+            "id": "24",
+            "name": "ChromaDB",
+            "category": "Software Engineering",
+            "icon": "FaDatabase"
+        },
+        {
+            "id": "25",
+            "name": "TensorFlow",
+            "category": "AI / ML and Data Science",
+            "icon": "SiTensorflow"
+        },
+        {
+            "id": "26",
+            "name": "PyTorch",
+            "category": "AI / ML and Data Science",
+            "icon": "SiPytorch"
+        },
+        {
+            "id": "27",
+            "name": "Hugging Face",
+            "category": "AI / ML and Data Science",
+            "icon": "SiHuggingface"
+        },
+        {
+            "id": "28",
+            "name": "LangChain",
+            "category": "AI / ML and Data Science",
+            "icon": "FaBrain"
+        },
+        {
+            "id": "29",
+            "name": "Large Language Models",
+            "category": "AI / ML and Data Science",
+            "icon": "FaRobot"
+        },
+        {
+            "id": "30",
+            "name": "Prompt Engineering",
+            "category": "AI / ML and Data Science",
+            "icon": "FaComments"
+        },
+        {
+            "id": "31",
+            "name": "MLflow",
+            "category": "AI / ML and Data Science",
+            "icon": "FaDatabase"
+        },
+        {
+            "id": "32",
+            "name": "CrewAI",
+            "category": "AI / ML and Data Science",
+            "icon": "FaRobot"
+        },
+        {
+            "id": "33",
+            "name": "Machine Learning",
+            "category": "AI / ML and Data Science",
+            "icon": "FaBrain"
+        },
+        {
+            "id": "34",
+            "name": "Deep Learning",
+            "category": "AI / ML and Data Science",
+            "icon": "FaBrain"
+        },
+        {
+            "id": "35",
+            "name": "Docker",
+            "category": "Project Management",
+            "icon": "FaDocker"
+        },
+        {
+            "id": "36",
+            "name": "Git",
+            "category": "Project Management",
+            "icon": "FaGitAlt"
+        },
+        {
+            "id": "37",
+            "name": "GitHub",
+            "category": "Project Management",
+            "icon": "FaGithub"
+        },
+        {
+            "id": "38",
+            "name": "Bitbucket",
+            "category": "Project Management",
+            "icon": "FaBitbucket"
+        },
+        {
+            "id": "39",
+            "name": "CI/CD",
+            "category": "Project Management",
+            "icon": "FaCodeBranch"
+        },
+        {
+            "id": "40",
+            "name": "Jira",
+            "category": "Project Management",
+            "icon": "FaJira"
+        },
+        {
+            "id": "41",
+            "name": "Figma",
+            "category": "Project Management",
+            "icon": "FaFigma"
+        },
+        {
+            "id": "42",
+            "name": "Postman",
+            "category": "Project Management",
+            "icon": "SiPostman"
+        },
+        {
+            "id": "43",
+            "name": "Swagger",
+            "category": "Project Management",
+            "icon": "SiSwagger"
+        },
+        {
+            "id": "44",
+            "name": "Project Management",
+            "category": "Project Management",
+            "icon": "FaTasks"
+        },
+        {
+            "id": "45",
+            "name": "Agile Methodology",
+            "category": "Project Management",
+            "icon": "FaProjectDiagram"
+        },
+        {
+            "id": "46",
+            "name": "Communication",
+            "category": "Project Management",
+            "icon": "FaComments"
+        },
+        {
+            "id": "47",
+            "name": "Software Architecture",
+            "category": "Project Management",
+            "icon": "FaDrawPolygon"
+        },
+        {
+            "id": "49",
+            "name": "Blockchain",
+            "category": "Project Management",
+            "icon": "FaCube"
+        },
+        {
+            "id": "51",
+            "name": "Data Structures",
+            "category": "Project Management",
+            "icon": "FaSitemap"
+        },
+        {
+            "id": "52",
+            "name": "MERN Stack",
+            "category": "Software Engineering",
+            "icon": "FaLayerGroup"
+        },
+        {
+            "id": "53",
+            "name": "Kotlin",
+            "category": "Mobile",
+            "icon": "SiKotlin"
+        },
+        {
+            "id": "54",
+            "name": "Flutter",
+            "category": "Mobile",
+            "icon": "SiFlutter"
+        },
+        {
+            "id": "55",
+            "name": "Dart",
+            "category": "Mobile",
+            "icon": "SiDart"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Web Development",
+            "description": "Building responsive and performant web applications using modern frameworks and best practices.",
+            "icon": "FaCode"
+        },
+        {
+            "id": "2",
+            "title": "Mobile Development",
+            "description": "Creating cross-platform mobile applications with React Native and Flutter.",
+            "icon": "FaMobile"
+        },
+        {
+            "id": "3",
+            "title": "AI/ML Solutions",
+            "description": "Developing intelligent systems and machine learning models for data-driven insights.",
+            "icon": "FaBrain"
+        },
+        {
+            "id": "4",
+            "title": "Cloud Solutions",
+            "description": "Deploying and managing scalable cloud infrastructure on AWS, Azure, and GCP.",
+            "icon": "FaCloud"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Full-Stack AI-Powered E-Commerce Platform",
+            "category": "Web",
+            "description": "A comprehensive, production-ready e-commerce solution leveraging cutting-edge AI technologies to deliver an intelligent and seamless shopping experience.",
+            "fullDescription": "🚀 A comprehensive, production-ready e-commerce solution leveraging cutting-edge AI technologies to deliver an intelligent and seamless shopping experience. This platform combines modern web development practices with advanced machine learning capabilities.",
+            "image": "/new1.jpg",
+            "technologies": [
+                "Next.js",
+                "React",
+                "TypeScript",
+                "Node.js",
+                "Express.js",
+                "MongoDB",
+                "AI/ML"
+            ],
+            "aiFeatures": [
+                "Gemini AI Chatbot - Natural language product discovery",
+                "Visual Search - CLIP model for image-to-product matching",
+                "Google Cloud Vision API - Advanced image recognition",
+                "Smart AI Recommendations - Personalized suggestions"
+            ],
+            "coreFeatures": [
+                "Complete product catalog with advanced filtering",
+                "Secure Stripe payment integration",
+                "Real-time cart & wishlist management",
+                "Admin dashboard with interactive analytics",
+                "JWT & OAuth 2.0 authentication",
+                "Product reviews & ratings"
+            ],
+            "techStack": {
+                "frontend": [
+                    "Next.js",
+                    "React",
+                    "TypeScript",
+                    "Tailwind CSS",
+                    "Ant Design"
+                ],
+                "backend": [
+                    "Node.js",
+                    "Express.js",
+                    "MongoDB",
+                    "Mongoose"
+                ],
+                "aiml": [
+                    "Google Gemini AI (LLM)",
+                    "CLIP (Xenova Transformers)",
+                    "Vision API"
+                ],
+                "services": [
+                    "Cloudinary",
+                    "Stripe",
+                    "Nodemailer"
+                ],
+                "security": [
+                    "JWT",
+                    "Bcrypt",
+                    "Helmet",
+                    "Rate Limiting"
+                ]
+            },
+            "achievements": [
+                "Successfully integrated 3 AI models for enhanced UX",
+                "Built scalable RESTful API architecture",
+                "Implemented secure payment processing",
+                "Achieved responsive design across all devices"
+            ],
+            "userManagement": [
+                "Secure JWT-based authentication with refresh tokens",
+                "OAuth 2.0 integration (Google Sign-In)",
+                "Role-based access control (Admin/Customer)",
+                "Comprehensive user profiles with order history",
+                "Email verification with OTP system",
+                "Secure password reset functionality"
+            ],
+            "futureEnhancements": [
+                "Voice search integration",
+                "Real-time notifications system with WebSockets",
+                "AI Virtual Try-On (AI Clothes Changer)"
+            ],
+            "github": "https://github.com/Ishan-Devinda/Full-Stack-E-commerce-Platform",
+            "demo": "https://github.com/Ishan-Devinda/Full-Stack-E-commerce-Platform",
+            "featured": true
+        },
+        {
+            "id": "2",
+            "title": "Virtual Travel Assistance Platform",
+            "category": "Web",
+            "description": "A sophisticated, full-stack platform designed to eliminate the friction of modern travel planning by consolidating services into a single ecosystem.",
+            "fullDescription": "We developed a sophisticated, full-stack Virtual Travel Assistance platform designed to eliminate the friction of modern travel planning. By consolidating fragmented services into a single, high-performance ecosystem, this platform empowers users to manage every aspect of their journey from health safety to local exploration in one place.",
+            "image": "/new2.png",
+            "technologies": [
+                "React",
+                "Spring Boot",
+                "MongoDB",
+                "Tailwind CSS",
+                "Jira"
+            ],
+            "coreFeatures": [
+                "🗺️ Professional Tour Guides: Seamless discovery and booking of local experts",
+                "🚗 Smart Transport: Integrated cab and local transit scheduling",
+                "🏨 Hotel Reservations: Real-time booking focused on user preferences",
+                "🏥 Health Care Support: Critical access to medical assistance during travel",
+                "📅 Personalized Travel Plans: Interactive engine for custom itinerary creation"
+            ],
+            "techStack": {
+                "frontend": [
+                    "React.js",
+                    "Axios",
+                    "Tailwind CSS"
+                ],
+                "backend": [
+                    "Spring Boot",
+                    "Spring Security",
+                    "JPA/MongoDB Connector"
+                ],
+                "database": [
+                    "MongoDB Atlas"
+                ],
+                "tools": [
+                    "Postman",
+                    "Git",
+                    "Agile Development (Jira)"
+                ]
+            },
+            "achievements": [
+                "Led a collaborative effort to conceptualize and develop the platform",
+                "Tailored solution precisely to client requirements",
+                "Consolidated fragmented travel services into a unified ecosystem"
+            ],
+            "github": "https://github.com/Ishan-Devinda/Full-Stack-E-commerce-Platform",
+            "demo": "https://www.youtube.com/watch?v=jgoe0xSZIfU",
+            "featured": true
+        },
+        {
+            "id": "3",
+            "title": "AI-Powered Educational Tutoring Chatbot",
+            "category": "AI/ML",
+            "description": "An intelligent tutoring system using RAG to transform static study materials into interactive learning experiences with quizzes and context-aware answers.",
+            "fullDescription": "🚀 Excited to share a project I’ve successfully developed — an AI-powered Educational Tutoring Chatbot designed to make learning smarter, faster, and more personalized. This system allows students to upload their own study materials (PDFs, Word files, PPTs) and interact with them through an intelligent chatbot.",
+            "image": "/new3.png",
+            "technologies": [
+                "FastAPI",
+                "Streamlit",
+                "LangChain",
+                "LLMs",
+                "RAG"
+            ],
+            "aiFeatures": [
+                "📚 Document-based Q&A using RAG (reduced hallucinations)",
+                "🧠 Quiz & MCQ generation for active learning",
+                "📝 Simplified explanations & revision questions with model answers",
+                "🌐 Web search fallback for out-of-scope queries (Tavily API)"
+            ],
+            "techStack": {
+                "backend": [
+                    "FastAPI"
+                ],
+                "frontend": [
+                    "Streamlit"
+                ],
+                "aiml": [
+                    "LangChain",
+                    "Large Language Models (LLMs)",
+                    "Hugging Face"
+                ],
+                "embeddings": [
+                    "Sentence Transformers"
+                ],
+                "database": [
+                    "ChromaDB"
+                ],
+                "monitoring": [
+                    "MLflow"
+                ],
+                "services": [
+                    "Tavily Search API"
+                ],
+                "tools": [
+                    "NLP with NLTK"
+                ]
+            },
+            "achievements": [
+                "Enhanced self-paced learning through interactive AI",
+                "Reduced dependency on human tutors",
+                "Transformed static documents into dynamic learning modules",
+                "Implemented performance monitoring experiment tracking"
+            ],
+            "github": "https://github.com/Ishan-Devinda/AI-Powered-Educational-Tutoring-Chatbot",
+            "demo": "#",
+            "featured": true
+        },
+        {
+            "id": "4",
+            "title": "Bus Ticket Booking and Bus Reservation",
+            "category": "Web",
+            "description": "A full-stack bus reservation platform developed with MERN stack, facilitating user-friendly booking processes and seamless ticket management.",
+            "fullDescription": "✨💎 This Full stack website 💻 developed with MERN stack facilitates user-friendly reservation processes and seamless ticket management for efficient travel planning. The system is divided into client and administrator panels for comprehensive management.",
+            "image": "/new4.png",
+            "technologies": [
+                "MongoDB",
+                "Express.js",
+                "React.js",
+                "Node.js",
+                "Tailwind CSS"
+            ],
+            "coreFeatures": [
+                "✅ Dual Interface: Separate panels for Client and Administrator",
+                "✅ Guest Access: Users can view bus details without sign-in",
+                "✅ Secure Auth: JWT-based secure sign-up/sign-in",
+                "✅ Booking System: Interactive bus seat booking",
+                "✅ Customer Care: Instant chat/feedback system"
+            ],
+            "techStack": {
+                "frontend": [
+                    "React.js",
+                    "Tailwind CSS",
+                    "HTML"
+                ],
+                "backend": [
+                    "Node.js",
+                    "Express.js"
+                ],
+                "database": [
+                    "MongoDB"
+                ],
+                "security": [
+                    "JSON Web Token (JWT)"
+                ]
+            },
+            "achievements": [
+                "Developed comprehensive Admin panel for managing routes (Add, Delete, Update)",
+                "Implemented booking management system (View, Edit, Delete)",
+                "Created seamless ticket management workflow"
+            ],
+            "github": "https://github.com/Ishan-Devinda/Bus-ticket-Booking-System-Frontend-Part",
+            "demo": "#",
+            "featured": true
+        },
+        {
+            "id": "5",
+            "title": "Bus Schedules Finding and Booking Mobile App",
+            "category": "Mobile",
+            "description": "A user-friendly mobile application for finding bus schedules and booking seats, featuring separate interfaces for clients and administrators.",
+            "fullDescription": "✨ This project was developed using Android Studio and Kotlin Language. This 📱app is user-friendly and facilitates seamless bus schedule finding and booking. The app features robust user management and booking workflows.",
+            "image": "/new6.png",
+            "technologies": [
+                "Kotlin",
+                "Java",
+                "Firebase",
+                "Android Studio"
+            ],
+            "coreFeatures": [
+                "✅ Dual Interface: Client and Admin panels",
+                "✅ User Management: Easy sign-up and sign-in",
+                "✅ Bus Search: Users can find bus details easily",
+                "✅ Booking System: Users can book buses and view booking details",
+                "✅ Admin Controls: Add, Update, and Delete bus details"
+            ],
+            "techStack": {
+                "frontend": [
+                    "Android XML",
+                    "Kotlin"
+                ],
+                "backend": [
+                    "Java",
+                    "Kotlin"
+                ],
+                "database": [
+                    "Firebase Realtime Database"
+                ],
+                "tools": [
+                    "Android Studio"
+                ]
+            },
+            "achievements": [
+                "Developed a fully functional mobile booking system",
+                "Implemented real-time database updates with Firebase",
+                "Created user-friendly interfaces for both admins and users"
+            ],
+            "github": "https://github.com/Ishan-Devinda/Bus_schedules?tab=readme-ov-file",
+            "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7200062061177884672/",
+            "featured": true
+        },
+        {
+            "id": "6",
+            "title": "Colombo International Bookfair Reservation Management System",
+            "category": "Web",
+            "description": "A microservices-based stall reservation system featuring interactive maps, real-time availability, and secure payment integration for book publishers.",
+            "fullDescription": "I’m excited to share a full-stack development project completed as a team effort for the Software Architecture module. We designed and built a Stall Reservation Management System for the Colombo International Bookfair, enabling book publishers and vendors to reserve stalls online while giving organizers real-time oversight and control.",
+            "image": "/new5.jpg",
+            "technologies": [
+                "Spring Boot",
+                "React",
+                "Redux",
+                "PostgreSQL",
+                "Microservices"
+            ],
+            "coreFeatures": [
+                "✨ Interactive stall map with real-time availability",
+                "✨ Vendor registration and stall booking (max 3 stalls per vendor)",
+                "✨ Automated QR code generation and email confirmation via SendGrid",
+                "✨ Secure payment integration with Stripe",
+                "✨ Role-based access for vendors and administrators"
+            ],
+            "techStack": {
+                "backend": [
+                    "Spring Boot",
+                    "REST API",
+                    "PostgreSQL",
+                    "Redis"
+                ],
+                "frontend": [
+                    "React",
+                    "Redux"
+                ],
+                "security": [
+                    "Spring Security",
+                    "JWT"
+                ],
+                "architecture": [
+                    "Event-driven Microservices",
+                    "C4 Model"
+                ],
+                "tools": [
+                    "Git",
+                    "Stripe",
+                    "SendGrid"
+                ]
+            },
+            "achievements": [
+                "Implemented event-driven microservices architecture",
+                "Modeled system using C4 model principles",
+                "Ensured scalability and clear separation of concerns"
+            ],
+            "github": "https://github.com/Nadun-Dissanayake/Stall-Reservation-Project",
+            "demo": "#",
+            "featured": true
+        },
+        {
+            "id": "7",
+            "title": "Student Record Management System",
+            "category": "Desktop",
+            "description": "A desktop application developed using WPF and SQLite for streamlining student record management with automatic GPA calculation.",
+            "fullDescription": "💎 This Student Record Management System is a desktop application developed using WPF (Windows Presentation Foundation) and SQLite database. 🚀 Successfully designed and implemented a streamlined Student Record Management System using the Model-View-View Model (MVVM) architecture.",
+            "image": "/new_7.png",
+            "technologies": [
+                "C#",
+                "WPF",
+                "SQLite",
+                "MVVM"
+            ],
+            "coreFeatures": [
+                "☑️ Dual Access: Admin (Principal) and Client (Teachers) portals",
+                "☑️ User Management: Secure Login/Account Creation",
+                "☑️ Data Management: Add, Delete, and Update student records",
+                "☑️ Automation: Automatic Student GPA calculation"
+            ],
+            "techStack": {
+                "frontend": [
+                    "WPF",
+                    "XAML"
+                ],
+                "backend": [
+                    "C#",
+                    ".NET"
+                ],
+                "database": [
+                    "SQLite"
+                ],
+                "architecture": [
+                    "MVVM (Model-View-ViewModel)"
+                ]
+            },
+            "achievements": [
+                "Successfully implemented MVVM architecture pattern",
+                "Automated complex GPA calculations",
+                "Designed intuitive dual-interface desktop application"
+            ],
+            "github": "https://github.com/Ishan-Devinda/Student-Recode-System-Destop-Application-",
+            "demo": "#",
+            "featured": true
+        },
+        {
+            "id": "8",
+            "title": "Diamond Price Prediction System",
+            "category": "AI/ML",
+            "description": "A research project leveraging machine learning algorithms to predict diamond prices with high accuracy, enhancing industry transparency.",
+            "fullDescription": "🚀✅ Led a research project, “Diamond Price Prediction System” developing a system of machine learning algorithms to revolutionize diamond valuation. Leveraged extensive dataset analysis and advanced algorithms to develop a predictive model, resulting in accurate price forecasts and enhanced transparency within the industry.",
+            "image": "/new8.png",
+            "technologies": [
+                "Machine Learning",
+                "Python",
+                "Decision Tree",
+                "Logistic Regression"
+            ],
+            "coreFeatures": [
+                "🛑 Accurate Price Forecasting: Using advanced ML algorithms",
+                "🛑 Data Preprocessing: Extensive dataset analysis and cleaning",
+                "🛑 Algorithm Selection: Comparative analysis of multiple models",
+                "🛑 Industry Impact: Enhanced transparency in valuation"
+            ],
+            "techStack": {
+                "aiml": [
+                    "Decision Tree",
+                    "Logistic Regression",
+                    "Machine Learning"
+                ],
+                "tools": [
+                    "Python",
+                    "Pandas",
+                    "Scikit-learn"
+                ],
+                "analytics": [
+                    "Data Preprocessing",
+                    "Model Implementation"
+                ]
+            },
+            "achievements": [
+                "Demonstrated proficiency in algorithm selection and implementation",
+                " showcased expertise in harnessing technology for sensitive domains",
+                "Achieved high accuracy in price predictions"
+            ],
+            "github": "https://github.com/Ishan-Devinda/Diamond-Price-Prediction",
+            "demo": "#",
+            "featured": true
+        }
+    ]
+}
