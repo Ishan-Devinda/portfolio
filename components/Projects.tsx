@@ -28,6 +28,9 @@ interface Project {
         monitoring?: string[];
         architecture?: string[];
         analytics?: string[];
+        blockchain?: string[];
+        mobile?: string[];
+        storage?: string[];
     };
     achievements?: string[];
     userManagement?: string[];

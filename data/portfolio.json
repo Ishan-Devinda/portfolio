@@ -16,7 +16,7 @@
             "experience": "1 ",
             "projects": "10+",
             "technologies": "25+",
-            "commits": "1000+"
+            "commits": "500+"
         }
     },
     "rotatingTitles": [
@@ -386,6 +386,71 @@
     "projects": [
         {
             "id": "1",
+            "title": "Sri Lanka Unique Digital Identity System (SLUDI)",
+            "category": "Web",
+            "description": "A blockchain-based national digital identity platform ensuring secure, verifiable, and privacy-preserving identities for citizens using AI and decentralized technologies.",
+            "fullDescription": "🚀 Proud to share our final-year group project SLUDI, a blockchain-based national digital identity platform designed to provide secure, verifiable, and privacy-preserving digital identities for citizens, government institutions, and service providers in Sri Lanka. SLUDI addresses the challenges of centralized identity systems by leveraging decentralized technologies, cryptography, and AI-driven biometric verification.",
+            "image": "/new9.jpg",
+            "technologies": [
+                "Hyperledger Fabric",
+                "React",
+                "Spring Boot",
+                "Flutter",
+                "AI/ML"
+            ],
+            "coreFeatures": [
+                "✨ Digital Identity Wallets & Verifiable Credentials",
+                "✨ Online & Offline Identity Verification (QR-based)",
+                "✨ Decentralized Storage using IPFS",
+                "✨ Role-Based Access Control (RBAC)",
+                "✨ Tamper-proof Identity Framework (DIDs)"
+            ],
+            "aiFeatures": [
+                "✨ AI-Powered Facial Verification",
+                "✨ Deepfake Detection for biometric security"
+            ],
+            "techStack": {
+                "frontend": [
+                    "React",
+                    "Redux",
+                    "TanStack Query"
+                ],
+                "backend": [
+                    "Spring Boot"
+                ],
+                "blockchain": [
+                    "Hyperledger Fabric",
+                    "Smart Contracts",
+                    "DIDs"
+                ],
+                "mobile": [
+                    "Flutter"
+                ],
+                "storage": [
+                    "IPFS",
+                    "PostgreSQL"
+                ],
+                "aiml": [
+                    "TensorFlow",
+                    "Keras",
+                    "Deepfake Detection"
+                ],
+                "security": [
+                    "Cryptography",
+                    "DIDs"
+                ]
+            },
+            "achievements": [
+                "Demonstrated expertise in secure software architecture",
+                "Implemented national-scale decentralized identity solution",
+                "Integrated AI-based biometric security with blockchain"
+            ],
+            "github": "https://github.com/Ishan-Devinda/SLUDI",
+            "demo": "https://sludi.dpdns.org/sign-in",
+            "featured": true
+        },
+        {
+            "id": "2",
             "title": "Full-Stack AI-Powered E-Commerce Platform",
             "category": "Web",
             "description": "A comprehensive, production-ready e-commerce solution leveraging cutting-edge AI technologies to deliver an intelligent and seamless shopping experience.",
@@ -469,7 +534,7 @@
             "featured": true
         },
         {
-            "id": "2",
+            "id": "3",
             "title": "Virtual Travel Assistance Platform",
             "category": "Web",
             "description": "A sophisticated, full-stack platform designed to eliminate the friction of modern travel planning by consolidating services into a single ecosystem.",
@@ -519,7 +584,7 @@
             "featured": true
         },
         {
-            "id": "3",
+            "id": "4",
             "title": "AI-Powered Educational Tutoring Chatbot",
             "category": "AI/ML",
             "description": "An intelligent tutoring system using RAG to transform static study materials into interactive learning experiences with quizzes and context-aware answers.",
@@ -577,7 +642,7 @@
             "featured": true
         },
         {
-            "id": "4",
+            "id": "5",
             "title": "Bus Ticket Booking and Bus Reservation",
             "category": "Web",
             "description": "A full-stack bus reservation platform developed with MERN stack, facilitating user-friendly booking processes and seamless ticket management.",
@@ -624,7 +689,7 @@
             "featured": true
         },
         {
-            "id": "5",
+            "id": "",
             "title": "Bus Schedules Finding and Booking Mobile App",
             "category": "Mobile",
             "description": "A user-friendly mobile application for finding bus schedules and booking seats, featuring separate interfaces for clients and administrators.",
@@ -669,7 +734,7 @@
             "featured": true
         },
         {
-            "id": "6",
+            "id": "7",
             "title": "Colombo International Bookfair Reservation Management System",
             "category": "Web",
             "description": "A microservices-based stall reservation system featuring interactive maps, real-time availability, and secure payment integration for book publishers.",
@@ -724,7 +789,7 @@
             "featured": true
         },
         {
-            "id": "7",
+            "id": "8",
             "title": "Student Record Management System",
             "category": "Desktop",
             "description": "A desktop application developed using WPF and SQLite for streamlining student record management with automatic GPA calculation.",
@@ -768,7 +833,7 @@
             "featured": true
         },
         {
-            "id": "8",
+            "id": "9",
             "title": "Diamond Price Prediction System",
             "category": "AI/ML",
             "description": "A research project leveraging machine learning algorithms to predict diamond prices with high accuracy, enhancing industry transparency.",
